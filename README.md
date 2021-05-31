@@ -11,3 +11,4 @@
 
 - `resouces`: pasta onde ficam definidas configurações, keywords,etc
 - `tasks`: pasta onde ficam as tasks do projeto
+- `libs`: pasta onde ficam as custom libs do projeto
